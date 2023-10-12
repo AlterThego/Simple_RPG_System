@@ -26,3 +26,17 @@ C:\Users\Administrator\Documents\Theo_Codes\RPG_Game_Sample\obj\Debug\net7.0\ref
 C:\Users\Administrator\Documents\Theo_Codes\RPG_Game_Sample\obj\Debug\net7.0\RPG_Game.pdb
 C:\Users\Administrator\Documents\Theo_Codes\RPG_Game_Sample\obj\Debug\net7.0\RPG_Game.genruntimeconfig.cache
 C:\Users\Administrator\Documents\Theo_Codes\RPG_Game_Sample\obj\Debug\net7.0\ref\RPG_Game.dll
+C:\xampp\htdocs\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.exe
+C:\xampp\htdocs\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.deps.json
+C:\xampp\htdocs\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.runtimeconfig.json
+C:\xampp\htdocs\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.dll
+C:\xampp\htdocs\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.pdb
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.AssemblyInfo.cs
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.dll
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\refint\RPG_Game.dll
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.pdb
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.genruntimeconfig.cache
+C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\ref\RPG_Game.dll
