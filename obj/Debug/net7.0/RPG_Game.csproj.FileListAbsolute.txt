@@ -40,3 +40,17 @@ C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\refint\RPG_Game.dll
 C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.pdb
 C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.genruntimeconfig.cache
 C:\xampp\htdocs\Simple_RPG_System\obj\Debug\net7.0\ref\RPG_Game.dll
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.exe
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.deps.json
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.runtimeconfig.json
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.dll
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\bin\Debug\net7.0\RPG_Game.pdb
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.AssemblyInfo.cs
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.dll
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\refint\RPG_Game.dll
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.pdb
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\RPG_Game.genruntimeconfig.cache
+C:\Users\Acer Nitro 5\rpg_game\Simple_RPG_System\obj\Debug\net7.0\ref\RPG_Game.dll

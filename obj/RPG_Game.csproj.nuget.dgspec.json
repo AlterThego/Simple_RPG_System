@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Simple_RPG_System\\RPG_Game.csproj": {}
+    "C:\\Users\\Acer Nitro 5\\rpg_game\\Simple_RPG_System\\RPG_Game.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Simple_RPG_System\\RPG_Game.csproj": {
+    "C:\\Users\\Acer Nitro 5\\rpg_game\\Simple_RPG_System\\RPG_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Simple_RPG_System\\RPG_Game.csproj",
+        "projectUniqueName": "C:\\Users\\Acer Nitro 5\\rpg_game\\Simple_RPG_System\\RPG_Game.csproj",
         "projectName": "RPG_Game",
-        "projectPath": "C:\\xampp\\htdocs\\Simple_RPG_System\\RPG_Game.csproj",
-        "packagesPath": "C:\\Users\\timma\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Simple_RPG_System\\obj\\",
+        "projectPath": "C:\\Users\\Acer Nitro 5\\rpg_game\\Simple_RPG_System\\RPG_Game.csproj",
+        "packagesPath": "C:\\Users\\Acer Nitro 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer Nitro 5\\rpg_game\\Simple_RPG_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\timma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer Nitro 5\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
